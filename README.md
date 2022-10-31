@@ -1,7 +1,17 @@
-# HRS3300-Arduino-Library
-Arduino Library for the HRS3300 Heartrate sensor for the nRF52 Bluetooth Micro
+# HX3600-Arduino-Library
+Arduino Library for the HX3603 Heartrate sensor for the nRF52 Bluetooth Micro
 
-### You can support my work via paypal: https://paypal.me/hoverboard1 this keeps projects like this comming.
+This sensor is used in the "second-generation" Da Fit watches, based on the nRF52840.
+I have a Kospet ROCK to test on.
+
+
+
+
+
+
+
+
+### You can support ATC's work via paypal: https://paypal.me/hoverboard1 this keeps projects like this comming.
 
 It includes a closed source .a file, to get the Arduino IDE recognize it you need to edit the Platform.txt from the nRF52 library.
 
